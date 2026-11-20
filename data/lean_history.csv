@@ -1,0 +1,343 @@
+person_id,person_name,as_of,structural_lean,structural_camp,current_stance,current_stance_camp,n_agreed_to_date,structural_status
+warsh,Kevin Warsh,2025-06-30,,insufficient evidence,,unclassified,0,tenure under 12 months
+warsh,Kevin Warsh,2025-07-31,,insufficient evidence,,unclassified,0,tenure under 12 months
+warsh,Kevin Warsh,2025-08-31,,insufficient evidence,,unclassified,0,tenure under 12 months
+warsh,Kevin Warsh,2025-09-30,,insufficient evidence,,unclassified,0,tenure under 12 months
+warsh,Kevin Warsh,2025-10-31,,insufficient evidence,,unclassified,0,tenure under 12 months
+warsh,Kevin Warsh,2025-11-30,,insufficient evidence,,unclassified,0,tenure under 12 months
+warsh,Kevin Warsh,2025-12-31,,insufficient evidence,,unclassified,0,tenure under 12 months
+warsh,Kevin Warsh,2026-01-31,,insufficient evidence,,unclassified,0,tenure under 12 months
+warsh,Kevin Warsh,2026-02-28,,insufficient evidence,,unclassified,0,tenure under 12 months
+warsh,Kevin Warsh,2026-03-31,,insufficient evidence,,unclassified,0,tenure under 12 months
+warsh,Kevin Warsh,2026-04-30,,insufficient evidence,,unclassified,0,tenure under 12 months
+warsh,Kevin Warsh,2026-05-31,,insufficient evidence,,unclassified,0,tenure under 12 months
+warsh,Kevin Warsh,2026-06-30,,insufficient evidence,,unclassified,0,tenure under 12 months
+warsh,Kevin Warsh,2026-07-31,,insufficient evidence,50.0,Hawk,1,tenure under 12 months
+warsh,Kevin Warsh,2026-08-31,,insufficient evidence,50.0,Hawk,2,tenure under 12 months
+warsh,Kevin Warsh,2026-09-30,,insufficient evidence,50.0,Hawk,2,tenure under 12 months
+warsh,Kevin Warsh,2026-10-31,,insufficient evidence,50.0,Hawk,2,tenure under 12 months
+warsh,Kevin Warsh,2026-11-20,,insufficient evidence,50.0,Hawk,2,tenure under 12 months
+jefferson,Philip N. Jefferson,2025-06-30,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+jefferson,Philip N. Jefferson,2025-07-31,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+jefferson,Philip N. Jefferson,2025-08-31,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+jefferson,Philip N. Jefferson,2025-09-30,,insufficient evidence,-50.0,Dove,1,fewer than 4 agreed events
+jefferson,Philip N. Jefferson,2025-10-31,,insufficient evidence,-50.0,Dove,1,fewer than 4 agreed events
+jefferson,Philip N. Jefferson,2025-11-30,,insufficient evidence,-35.8719,Dove,2,fewer than 4 agreed events
+jefferson,Philip N. Jefferson,2025-12-31,,insufficient evidence,-30.0,Dove,2,fewer than 4 agreed events
+jefferson,Philip N. Jefferson,2026-01-31,,insufficient evidence,-30.0,Dove,2,fewer than 4 agreed events
+jefferson,Philip N. Jefferson,2026-02-28,,insufficient evidence,50.0,Hawk,3,fewer than 4 agreed events
+jefferson,Philip N. Jefferson,2026-03-31,,insufficient evidence,50.0,Hawk,4,span under 365 days
+jefferson,Philip N. Jefferson,2026-04-30,,insufficient evidence,50.0,Hawk,5,span under 365 days
+jefferson,Philip N. Jefferson,2026-05-31,,insufficient evidence,50.0,Hawk,6,span under 365 days
+jefferson,Philip N. Jefferson,2026-06-30,,insufficient evidence,50.0,Hawk,6,span under 365 days
+jefferson,Philip N. Jefferson,2026-07-31,,insufficient evidence,50.0,Hawk,6,span under 365 days
+jefferson,Philip N. Jefferson,2026-08-31,,insufficient evidence,,unclassified,6,span under 365 days
+jefferson,Philip N. Jefferson,2026-09-30,,insufficient evidence,,unclassified,6,span under 365 days
+jefferson,Philip N. Jefferson,2026-10-31,24.2857,Hawk,50.0,Hawk,7,ok
+jefferson,Philip N. Jefferson,2026-11-20,27.5,Hawk,50.0,Hawk,8,ok
+bowman,Michelle W. Bowman,2025-06-30,,insufficient evidence,50.0,Hawk,1,fewer than 4 agreed events
+bowman,Michelle W. Bowman,2025-07-31,,insufficient evidence,-20.159,Dove,2,fewer than 4 agreed events
+bowman,Michelle W. Bowman,2025-08-31,,insufficient evidence,-28.9471,Dove,3,fewer than 4 agreed events
+bowman,Michelle W. Bowman,2025-09-30,,insufficient evidence,-47.5961,Dove,4,span under 365 days
+bowman,Michelle W. Bowman,2025-10-31,,insufficient evidence,-47.0977,Dove,4,span under 365 days
+bowman,Michelle W. Bowman,2025-11-30,,insufficient evidence,-50.0,Dove,4,span under 365 days
+bowman,Michelle W. Bowman,2025-12-31,,insufficient evidence,,unclassified,4,span under 365 days
+bowman,Michelle W. Bowman,2026-01-31,,insufficient evidence,-30.0,Dove,5,span under 365 days
+bowman,Michelle W. Bowman,2026-02-28,,insufficient evidence,-30.0,Dove,5,span under 365 days
+bowman,Michelle W. Bowman,2026-03-31,,insufficient evidence,-30.0,Dove,5,span under 365 days
+bowman,Michelle W. Bowman,2026-04-30,,insufficient evidence,-30.0,Dove,5,span under 365 days
+bowman,Michelle W. Bowman,2026-05-31,,insufficient evidence,0.0,Centrist,6,span under 365 days
+bowman,Michelle W. Bowman,2026-06-30,,insufficient evidence,0.0,Centrist,6,span under 365 days
+bowman,Michelle W. Bowman,2026-07-31,,insufficient evidence,0.0,Centrist,6,span under 365 days
+bowman,Michelle W. Bowman,2026-08-31,,insufficient evidence,,unclassified,6,span under 365 days
+bowman,Michelle W. Bowman,2026-09-30,,insufficient evidence,,unclassified,6,span under 365 days
+bowman,Michelle W. Bowman,2026-10-31,,insufficient evidence,,unclassified,6,span under 365 days
+bowman,Michelle W. Bowman,2026-11-20,-9.8413,Centrist,50.0,Hawk,7,ok
+barr,Michael S. Barr,2025-06-30,,insufficient evidence,50.0,Hawk,1,fewer than 4 agreed events
+barr,Michael S. Barr,2025-07-31,,insufficient evidence,50.0,Hawk,1,fewer than 4 agreed events
+barr,Michael S. Barr,2025-08-31,,insufficient evidence,50.0,Hawk,1,fewer than 4 agreed events
+barr,Michael S. Barr,2025-09-30,,insufficient evidence,,unclassified,1,fewer than 4 agreed events
+barr,Michael S. Barr,2025-10-31,,insufficient evidence,-30.0,Dove,2,fewer than 4 agreed events
+barr,Michael S. Barr,2025-11-30,,insufficient evidence,-30.0,Dove,2,fewer than 4 agreed events
+barr,Michael S. Barr,2025-12-31,,insufficient evidence,-30.0,Dove,2,fewer than 4 agreed events
+barr,Michael S. Barr,2026-01-31,,insufficient evidence,,unclassified,2,fewer than 4 agreed events
+barr,Michael S. Barr,2026-02-28,,insufficient evidence,50.0,Hawk,3,fewer than 4 agreed events
+barr,Michael S. Barr,2026-03-31,,insufficient evidence,50.0,Hawk,5,span under 365 days
+barr,Michael S. Barr,2026-04-30,,insufficient evidence,50.0,Hawk,5,span under 365 days
+barr,Michael S. Barr,2026-05-31,,insufficient evidence,50.0,Hawk,5,span under 365 days
+barr,Michael S. Barr,2026-06-30,,insufficient evidence,,unclassified,5,span under 365 days
+barr,Michael S. Barr,2026-07-31,,insufficient evidence,,unclassified,5,span under 365 days
+barr,Michael S. Barr,2026-08-31,,insufficient evidence,,unclassified,5,span under 365 days
+barr,Michael S. Barr,2026-09-30,38.5714,Hawk,50.0,Hawk,7,ok
+barr,Michael S. Barr,2026-10-31,38.5714,Hawk,50.0,Hawk,7,ok
+barr,Michael S. Barr,2026-11-20,40.0,Hawk,50.0,Hawk,8,ok
+cook,Lisa D. Cook,2025-06-30,,insufficient evidence,50.0,Hawk,1,fewer than 4 agreed events
+cook,Lisa D. Cook,2025-07-31,,insufficient evidence,50.0,Hawk,1,fewer than 4 agreed events
+cook,Lisa D. Cook,2025-08-31,,insufficient evidence,50.0,Hawk,1,fewer than 4 agreed events
+cook,Lisa D. Cook,2025-09-30,,insufficient evidence,,unclassified,1,fewer than 4 agreed events
+cook,Lisa D. Cook,2025-10-31,,insufficient evidence,,unclassified,1,fewer than 4 agreed events
+cook,Lisa D. Cook,2025-11-30,,insufficient evidence,-30.0,Dove,2,fewer than 4 agreed events
+cook,Lisa D. Cook,2025-12-31,,insufficient evidence,-30.0,Dove,2,fewer than 4 agreed events
+cook,Lisa D. Cook,2026-01-31,,insufficient evidence,-30.0,Dove,2,fewer than 4 agreed events
+cook,Lisa D. Cook,2026-02-28,,insufficient evidence,50.0,Hawk,3,fewer than 4 agreed events
+cook,Lisa D. Cook,2026-03-31,,insufficient evidence,50.0,Hawk,3,fewer than 4 agreed events
+cook,Lisa D. Cook,2026-04-30,,insufficient evidence,50.0,Hawk,3,fewer than 4 agreed events
+cook,Lisa D. Cook,2026-05-31,,insufficient evidence,50.0,Hawk,4,span under 365 days
+cook,Lisa D. Cook,2026-06-30,,insufficient evidence,50.0,Hawk,4,span under 365 days
+cook,Lisa D. Cook,2026-07-31,30.0,Hawk,34.8753,Hawk,5,ok
+cook,Lisa D. Cook,2026-08-31,30.0,Hawk,30.0,Hawk,5,ok
+cook,Lisa D. Cook,2026-09-30,33.3333,Hawk,46.9956,Hawk,6,ok
+cook,Lisa D. Cook,2026-10-31,35.7143,Hawk,50.0,Hawk,7,ok
+cook,Lisa D. Cook,2026-11-20,35.7143,Hawk,42.4079,Hawk,8,ok
+powell,Jerome H. Powell,2025-06-30,,insufficient evidence,50.0,Hawk,1,fewer than 4 agreed events
+powell,Jerome H. Powell,2025-07-31,,insufficient evidence,50.0,Hawk,1,fewer than 4 agreed events
+powell,Jerome H. Powell,2025-08-31,,insufficient evidence,-3.0852,Centrist,2,fewer than 4 agreed events
+powell,Jerome H. Powell,2025-09-30,,insufficient evidence,-29.5592,Dove,3,fewer than 4 agreed events
+powell,Jerome H. Powell,2025-10-31,,insufficient evidence,-29.5592,Dove,3,fewer than 4 agreed events
+powell,Jerome H. Powell,2025-11-30,,insufficient evidence,-35.7143,Dove,3,fewer than 4 agreed events
+powell,Jerome H. Powell,2025-12-31,,insufficient evidence,,unclassified,3,fewer than 4 agreed events
+powell,Jerome H. Powell,2026-01-31,,insufficient evidence,,unclassified,3,fewer than 4 agreed events
+powell,Jerome H. Powell,2026-02-28,,insufficient evidence,,unclassified,3,fewer than 4 agreed events
+powell,Jerome H. Powell,2026-03-31,,insufficient evidence,,unclassified,3,fewer than 4 agreed events
+powell,Jerome H. Powell,2026-04-30,,insufficient evidence,,unclassified,3,fewer than 4 agreed events
+powell,Jerome H. Powell,2026-05-31,,insufficient evidence,,unclassified,3,fewer than 4 agreed events
+powell,Jerome H. Powell,2026-06-30,,insufficient evidence,,unclassified,3,fewer than 4 agreed events
+powell,Jerome H. Powell,2026-07-31,,insufficient evidence,,unclassified,3,fewer than 4 agreed events
+powell,Jerome H. Powell,2026-08-31,,insufficient evidence,,unclassified,3,fewer than 4 agreed events
+powell,Jerome H. Powell,2026-09-30,,insufficient evidence,,unclassified,3,fewer than 4 agreed events
+powell,Jerome H. Powell,2026-10-31,,insufficient evidence,,unclassified,3,fewer than 4 agreed events
+powell,Jerome H. Powell,2026-11-20,,insufficient evidence,,unclassified,3,fewer than 4 agreed events
+waller,Christopher J. Waller,2025-06-30,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+waller,Christopher J. Waller,2025-07-31,,insufficient evidence,-43.9219,Dove,2,fewer than 4 agreed events
+waller,Christopher J. Waller,2025-08-31,,insufficient evidence,-39.5807,Dove,3,fewer than 4 agreed events
+waller,Christopher J. Waller,2025-09-30,,insufficient evidence,-39.5807,Dove,3,fewer than 4 agreed events
+waller,Christopher J. Waller,2025-10-31,,insufficient evidence,-46.5176,Dove,4,span under 365 days
+waller,Christopher J. Waller,2025-11-30,,insufficient evidence,-42.4794,Dove,5,span under 365 days
+waller,Christopher J. Waller,2025-12-31,,insufficient evidence,-42.4794,Dove,5,span under 365 days
+waller,Christopher J. Waller,2026-01-31,,insufficient evidence,-48.2302,Dove,6,span under 365 days
+waller,Christopher J. Waller,2026-02-28,,insufficient evidence,-50.0,Dove,6,span under 365 days
+waller,Christopher J. Waller,2026-03-31,,insufficient evidence,-50.0,Dove,6,span under 365 days
+waller,Christopher J. Waller,2026-04-30,,insufficient evidence,50.0,Hawk,7,span under 365 days
+waller,Christopher J. Waller,2026-05-31,,insufficient evidence,50.0,Hawk,8,span under 365 days
+waller,Christopher J. Waller,2026-06-30,,insufficient evidence,50.0,Hawk,8,span under 365 days
+waller,Christopher J. Waller,2026-07-31,,insufficient evidence,50.0,Hawk,9,span under 365 days
+waller,Christopher J. Waller,2026-08-31,,insufficient evidence,50.0,Hawk,9,span under 365 days
+waller,Christopher J. Waller,2026-09-30,-8.5317,Centrist,30.7804,Hawk,10,ok
+waller,Christopher J. Waller,2026-10-31,-3.2107,Centrist,42.2957,Hawk,11,ok
+waller,Christopher J. Waller,2026-11-20,2.0569,Centrist,52.8697,Hawk,12,ok
+collins,Susan M. Collins,2025-06-30,,insufficient evidence,50.0,Hawk,2,fewer than 4 agreed events
+collins,Susan M. Collins,2025-07-31,,insufficient evidence,50.0,Hawk,3,fewer than 4 agreed events
+collins,Susan M. Collins,2025-08-31,,insufficient evidence,50.0,Hawk,3,fewer than 4 agreed events
+collins,Susan M. Collins,2025-09-30,,insufficient evidence,-23.3357,Dove,4,span under 365 days
+collins,Susan M. Collins,2025-10-31,,insufficient evidence,-24.6635,Dove,5,span under 365 days
+collins,Susan M. Collins,2025-11-30,,insufficient evidence,-38.1263,Dove,6,span under 365 days
+collins,Susan M. Collins,2025-12-31,,insufficient evidence,-38.7171,Dove,6,span under 365 days
+collins,Susan M. Collins,2026-01-31,,insufficient evidence,-50.0,Dove,6,span under 365 days
+collins,Susan M. Collins,2026-02-28,,insufficient evidence,,unclassified,6,span under 365 days
+collins,Susan M. Collins,2026-03-31,,insufficient evidence,50.0,Hawk,7,span under 365 days
+collins,Susan M. Collins,2026-04-30,,insufficient evidence,50.0,Hawk,7,span under 365 days
+collins,Susan M. Collins,2026-05-31,,insufficient evidence,50.0,Hawk,8,span under 365 days
+collins,Susan M. Collins,2026-06-30,,insufficient evidence,50.0,Hawk,8,span under 365 days
+collins,Susan M. Collins,2026-07-31,,insufficient evidence,50.0,Hawk,8,span under 365 days
+collins,Susan M. Collins,2026-08-31,21.9577,Hawk,50.0,Hawk,9,ok
+collins,Susan M. Collins,2026-09-30,21.9577,Hawk,50.0,Hawk,9,ok
+collins,Susan M. Collins,2026-10-31,24.7619,Hawk,50.0,Hawk,10,ok
+collins,Susan M. Collins,2026-11-20,24.7619,Hawk,50.0,Hawk,10,ok
+williams,John C. Williams,2025-06-30,,insufficient evidence,50.0,Hawk,1,fewer than 4 agreed events
+williams,John C. Williams,2025-07-31,,insufficient evidence,50.0,Hawk,2,fewer than 4 agreed events
+williams,John C. Williams,2025-08-31,,insufficient evidence,50.0,Hawk,2,fewer than 4 agreed events
+williams,John C. Williams,2025-09-30,,insufficient evidence,-10.8374,Centrist,3,fewer than 4 agreed events
+williams,John C. Williams,2025-10-31,,insufficient evidence,-30.0,Dove,3,fewer than 4 agreed events
+williams,John C. Williams,2025-11-30,,insufficient evidence,-34.9052,Dove,4,span under 365 days
+williams,John C. Williams,2025-12-31,,insufficient evidence,-35.7143,Dove,4,span under 365 days
+williams,John C. Williams,2026-01-31,,insufficient evidence,-35.7143,Dove,4,span under 365 days
+williams,John C. Williams,2026-02-28,,insufficient evidence,,unclassified,4,span under 365 days
+williams,John C. Williams,2026-03-31,,insufficient evidence,,unclassified,4,span under 365 days
+williams,John C. Williams,2026-04-30,,insufficient evidence,,unclassified,4,span under 365 days
+williams,John C. Williams,2026-05-31,,insufficient evidence,,unclassified,4,span under 365 days
+williams,John C. Williams,2026-06-30,,insufficient evidence,,unclassified,4,span under 365 days
+williams,John C. Williams,2026-07-31,,insufficient evidence,,unclassified,4,span under 365 days
+williams,John C. Williams,2026-08-31,,insufficient evidence,,unclassified,4,span under 365 days
+williams,John C. Williams,2026-09-30,8.8571,Centrist,10.0,Centrist,5,ok
+williams,John C. Williams,2026-10-31,8.8571,Centrist,10.0,Centrist,5,ok
+williams,John C. Williams,2026-11-20,8.8571,Centrist,10.0,Centrist,5,ok
+paulson,Anna L. Paulson,2025-06-30,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+paulson,Anna L. Paulson,2025-07-31,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+paulson,Anna L. Paulson,2025-08-31,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+paulson,Anna L. Paulson,2025-09-30,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+paulson,Anna L. Paulson,2025-10-31,,insufficient evidence,50.0,Hawk,1,fewer than 4 agreed events
+paulson,Anna L. Paulson,2025-11-30,,insufficient evidence,50.0,Hawk,2,fewer than 4 agreed events
+paulson,Anna L. Paulson,2025-12-31,,insufficient evidence,50.0,Hawk,3,fewer than 4 agreed events
+paulson,Anna L. Paulson,2026-01-31,,insufficient evidence,50.0,Hawk,4,span under 365 days
+paulson,Anna L. Paulson,2026-02-28,,insufficient evidence,50.0,Hawk,4,span under 365 days
+paulson,Anna L. Paulson,2026-03-31,,insufficient evidence,50.0,Hawk,5,span under 365 days
+paulson,Anna L. Paulson,2026-04-30,,insufficient evidence,50.0,Hawk,5,span under 365 days
+paulson,Anna L. Paulson,2026-05-31,,insufficient evidence,50.0,Hawk,6,span under 365 days
+paulson,Anna L. Paulson,2026-06-30,,insufficient evidence,50.0,Hawk,6,span under 365 days
+paulson,Anna L. Paulson,2026-07-31,,insufficient evidence,50.0,Hawk,6,span under 365 days
+paulson,Anna L. Paulson,2026-08-31,,insufficient evidence,,unclassified,6,span under 365 days
+paulson,Anna L. Paulson,2026-09-30,,insufficient evidence,50.0,Hawk,7,span under 365 days
+paulson,Anna L. Paulson,2026-10-31,,insufficient evidence,50.0,Hawk,7,span under 365 days
+paulson,Anna L. Paulson,2026-11-20,50.0,Hawk,50.0,Hawk,9,ok
+hammack,Beth M. Hammack,2025-06-30,,insufficient evidence,50.0,Hawk,1,fewer than 4 agreed events
+hammack,Beth M. Hammack,2025-07-31,,insufficient evidence,50.0,Hawk,1,fewer than 4 agreed events
+hammack,Beth M. Hammack,2025-08-31,,insufficient evidence,50.0,Hawk,1,fewer than 4 agreed events
+hammack,Beth M. Hammack,2025-09-30,,insufficient evidence,,unclassified,1,fewer than 4 agreed events
+hammack,Beth M. Hammack,2025-10-31,,insufficient evidence,,unclassified,1,fewer than 4 agreed events
+hammack,Beth M. Hammack,2025-11-30,,insufficient evidence,16.6667,Centrist,2,fewer than 4 agreed events
+hammack,Beth M. Hammack,2025-12-31,,insufficient evidence,16.6667,Centrist,2,fewer than 4 agreed events
+hammack,Beth M. Hammack,2026-01-31,,insufficient evidence,16.6667,Centrist,2,fewer than 4 agreed events
+hammack,Beth M. Hammack,2026-02-28,,insufficient evidence,30.0,Hawk,3,fewer than 4 agreed events
+hammack,Beth M. Hammack,2026-03-31,,insufficient evidence,30.0,Hawk,3,fewer than 4 agreed events
+hammack,Beth M. Hammack,2026-04-30,,insufficient evidence,47.1683,Hawk,4,span under 365 days
+hammack,Beth M. Hammack,2026-05-31,,insufficient evidence,50.0,Hawk,4,span under 365 days
+hammack,Beth M. Hammack,2026-06-30,,insufficient evidence,36.2624,Hawk,5,span under 365 days
+hammack,Beth M. Hammack,2026-07-31,37.7778,Hawk,45.7736,Hawk,6,ok
+hammack,Beth M. Hammack,2026-08-31,37.7778,Hawk,45.7736,Hawk,6,ok
+hammack,Beth M. Hammack,2026-09-30,37.7778,Hawk,50.0,Hawk,6,ok
+hammack,Beth M. Hammack,2026-10-31,40.8333,Hawk,50.0,Hawk,8,ok
+hammack,Beth M. Hammack,2026-11-20,41.8519,Hawk,50.0,Hawk,9,ok
+barkin,Thomas I. Barkin,2025-06-30,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+barkin,Thomas I. Barkin,2025-07-31,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+barkin,Thomas I. Barkin,2025-08-31,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+barkin,Thomas I. Barkin,2025-09-30,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+barkin,Thomas I. Barkin,2025-10-31,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+barkin,Thomas I. Barkin,2025-11-30,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+barkin,Thomas I. Barkin,2025-12-31,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+barkin,Thomas I. Barkin,2026-01-31,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+barkin,Thomas I. Barkin,2026-02-28,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+barkin,Thomas I. Barkin,2026-03-31,,insufficient evidence,-50.0,Dove,1,fewer than 4 agreed events
+barkin,Thomas I. Barkin,2026-04-30,,insufficient evidence,-50.0,Dove,1,fewer than 4 agreed events
+barkin,Thomas I. Barkin,2026-05-31,,insufficient evidence,-50.0,Dove,1,fewer than 4 agreed events
+barkin,Thomas I. Barkin,2026-06-30,,insufficient evidence,,unclassified,1,fewer than 4 agreed events
+barkin,Thomas I. Barkin,2026-07-31,,insufficient evidence,,unclassified,1,fewer than 4 agreed events
+barkin,Thomas I. Barkin,2026-08-31,,insufficient evidence,,unclassified,1,fewer than 4 agreed events
+barkin,Thomas I. Barkin,2026-09-30,,insufficient evidence,100.0,Hawk,2,fewer than 4 agreed events
+barkin,Thomas I. Barkin,2026-10-31,,insufficient evidence,100.0,Hawk,2,fewer than 4 agreed events
+barkin,Thomas I. Barkin,2026-11-20,,insufficient evidence,100.0,Hawk,2,fewer than 4 agreed events
+venable,Cheryl Venable,2025-06-30,,insufficient evidence,,unclassified,0,interim tenure under 12 months
+venable,Cheryl Venable,2025-07-31,,insufficient evidence,,unclassified,0,interim tenure under 12 months
+venable,Cheryl Venable,2025-08-31,,insufficient evidence,,unclassified,0,interim tenure under 12 months
+venable,Cheryl Venable,2025-09-30,,insufficient evidence,,unclassified,0,interim tenure under 12 months
+venable,Cheryl Venable,2025-10-31,,insufficient evidence,,unclassified,0,interim tenure under 12 months
+venable,Cheryl Venable,2025-11-30,,insufficient evidence,,unclassified,0,interim tenure under 12 months
+venable,Cheryl Venable,2025-12-31,,insufficient evidence,,unclassified,0,interim tenure under 12 months
+venable,Cheryl Venable,2026-01-31,,insufficient evidence,,unclassified,0,interim tenure under 12 months
+venable,Cheryl Venable,2026-02-28,,insufficient evidence,,unclassified,0,interim tenure under 12 months
+venable,Cheryl Venable,2026-03-31,,insufficient evidence,,unclassified,0,interim tenure under 12 months
+venable,Cheryl Venable,2026-04-30,,insufficient evidence,,unclassified,0,interim tenure under 12 months
+venable,Cheryl Venable,2026-05-31,,insufficient evidence,-50.0,Dove,1,interim tenure under 12 months
+venable,Cheryl Venable,2026-06-30,,insufficient evidence,-50.0,Dove,1,interim tenure under 12 months
+venable,Cheryl Venable,2026-07-31,,insufficient evidence,-50.0,Dove,1,interim tenure under 12 months
+venable,Cheryl Venable,2026-08-31,,insufficient evidence,,unclassified,1,interim tenure under 12 months
+venable,Cheryl Venable,2026-09-30,,insufficient evidence,,unclassified,1,interim tenure under 12 months
+venable,Cheryl Venable,2026-10-31,,insufficient evidence,,unclassified,1,interim tenure under 12 months
+venable,Cheryl Venable,2026-11-20,,insufficient evidence,,unclassified,1,interim tenure under 12 months
+goolsbee,Austan D. Goolsbee,2025-06-30,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+goolsbee,Austan D. Goolsbee,2025-07-31,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+goolsbee,Austan D. Goolsbee,2025-08-31,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+goolsbee,Austan D. Goolsbee,2025-09-30,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+goolsbee,Austan D. Goolsbee,2025-10-31,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+goolsbee,Austan D. Goolsbee,2025-11-30,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+goolsbee,Austan D. Goolsbee,2025-12-31,,insufficient evidence,50.0,Hawk,1,fewer than 4 agreed events
+goolsbee,Austan D. Goolsbee,2026-01-31,,insufficient evidence,50.0,Hawk,1,fewer than 4 agreed events
+goolsbee,Austan D. Goolsbee,2026-02-28,,insufficient evidence,-3.294,Centrist,2,fewer than 4 agreed events
+goolsbee,Austan D. Goolsbee,2026-03-31,,insufficient evidence,-12.5,Centrist,2,fewer than 4 agreed events
+goolsbee,Austan D. Goolsbee,2026-04-30,,insufficient evidence,-12.5,Centrist,2,fewer than 4 agreed events
+goolsbee,Austan D. Goolsbee,2026-05-31,,insufficient evidence,,unclassified,2,fewer than 4 agreed events
+goolsbee,Austan D. Goolsbee,2026-06-30,,insufficient evidence,,unclassified,2,fewer than 4 agreed events
+goolsbee,Austan D. Goolsbee,2026-07-31,,insufficient evidence,,unclassified,2,fewer than 4 agreed events
+goolsbee,Austan D. Goolsbee,2026-08-31,,insufficient evidence,,unclassified,2,fewer than 4 agreed events
+goolsbee,Austan D. Goolsbee,2026-09-30,,insufficient evidence,,unclassified,2,fewer than 4 agreed events
+goolsbee,Austan D. Goolsbee,2026-10-31,,insufficient evidence,,unclassified,2,fewer than 4 agreed events
+goolsbee,Austan D. Goolsbee,2026-11-20,,insufficient evidence,,unclassified,2,fewer than 4 agreed events
+musalem,Alberto G. Musalem,2025-06-30,,insufficient evidence,50.0,Hawk,1,fewer than 4 agreed events
+musalem,Alberto G. Musalem,2025-07-31,,insufficient evidence,50.0,Hawk,1,fewer than 4 agreed events
+musalem,Alberto G. Musalem,2025-08-31,,insufficient evidence,,unclassified,1,fewer than 4 agreed events
+musalem,Alberto G. Musalem,2025-09-30,,insufficient evidence,,unclassified,1,fewer than 4 agreed events
+musalem,Alberto G. Musalem,2025-10-31,,insufficient evidence,,unclassified,1,fewer than 4 agreed events
+musalem,Alberto G. Musalem,2025-11-30,,insufficient evidence,,unclassified,1,fewer than 4 agreed events
+musalem,Alberto G. Musalem,2025-12-31,,insufficient evidence,,unclassified,1,fewer than 4 agreed events
+musalem,Alberto G. Musalem,2026-01-31,,insufficient evidence,50.0,Hawk,2,fewer than 4 agreed events
+musalem,Alberto G. Musalem,2026-02-28,,insufficient evidence,50.0,Hawk,2,fewer than 4 agreed events
+musalem,Alberto G. Musalem,2026-03-31,,insufficient evidence,50.0,Hawk,2,fewer than 4 agreed events
+musalem,Alberto G. Musalem,2026-04-30,,insufficient evidence,50.0,Hawk,3,fewer than 4 agreed events
+musalem,Alberto G. Musalem,2026-05-31,41.0,Hawk,30.192,Hawk,5,ok
+musalem,Alberto G. Musalem,2026-06-30,41.0,Hawk,30.192,Hawk,5,ok
+musalem,Alberto G. Musalem,2026-07-31,41.0,Hawk,26.878,Hawk,5,ok
+musalem,Alberto G. Musalem,2026-08-31,41.0,Hawk,,unclassified,5,ok
+musalem,Alberto G. Musalem,2026-09-30,42.5,Hawk,50.0,Hawk,6,ok
+musalem,Alberto G. Musalem,2026-10-31,45.7143,Hawk,60.0767,Hawk,7,ok
+musalem,Alberto G. Musalem,2026-11-20,50.625,Hawk,72.6509,Hawk,8,ok
+kashkari,Neel Kashkari,2025-06-30,,insufficient evidence,50.0,Hawk,1,fewer than 4 agreed events
+kashkari,Neel Kashkari,2025-07-31,,insufficient evidence,50.0,Hawk,1,fewer than 4 agreed events
+kashkari,Neel Kashkari,2025-08-31,,insufficient evidence,,unclassified,1,fewer than 4 agreed events
+kashkari,Neel Kashkari,2025-09-30,,insufficient evidence,,unclassified,1,fewer than 4 agreed events
+kashkari,Neel Kashkari,2025-10-31,,insufficient evidence,,unclassified,1,fewer than 4 agreed events
+kashkari,Neel Kashkari,2025-11-30,,insufficient evidence,,unclassified,1,fewer than 4 agreed events
+kashkari,Neel Kashkari,2025-12-31,,insufficient evidence,,unclassified,1,fewer than 4 agreed events
+kashkari,Neel Kashkari,2026-01-31,,insufficient evidence,,unclassified,1,fewer than 4 agreed events
+kashkari,Neel Kashkari,2026-02-28,,insufficient evidence,,unclassified,1,fewer than 4 agreed events
+kashkari,Neel Kashkari,2026-03-31,,insufficient evidence,,unclassified,1,fewer than 4 agreed events
+kashkari,Neel Kashkari,2026-04-30,,insufficient evidence,50.0,Hawk,2,fewer than 4 agreed events
+kashkari,Neel Kashkari,2026-05-31,,insufficient evidence,50.0,Hawk,2,fewer than 4 agreed events
+kashkari,Neel Kashkari,2026-06-30,,insufficient evidence,50.0,Hawk,2,fewer than 4 agreed events
+kashkari,Neel Kashkari,2026-07-31,,insufficient evidence,50.0,Hawk,3,fewer than 4 agreed events
+kashkari,Neel Kashkari,2026-08-31,,insufficient evidence,50.0,Hawk,3,fewer than 4 agreed events
+kashkari,Neel Kashkari,2026-09-30,,insufficient evidence,50.0,Hawk,3,fewer than 4 agreed events
+kashkari,Neel Kashkari,2026-10-31,,insufficient evidence,,unclassified,3,fewer than 4 agreed events
+kashkari,Neel Kashkari,2026-11-20,,insufficient evidence,,unclassified,3,fewer than 4 agreed events
+schmid,Jeffrey R. Schmid,2025-06-30,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+schmid,Jeffrey R. Schmid,2025-07-31,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+schmid,Jeffrey R. Schmid,2025-08-31,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+schmid,Jeffrey R. Schmid,2025-09-30,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+schmid,Jeffrey R. Schmid,2025-10-31,,insufficient evidence,50.0,Hawk,2,fewer than 4 agreed events
+schmid,Jeffrey R. Schmid,2025-11-30,,insufficient evidence,50.0,Hawk,2,fewer than 4 agreed events
+schmid,Jeffrey R. Schmid,2025-12-31,,insufficient evidence,50.0,Hawk,3,fewer than 4 agreed events
+schmid,Jeffrey R. Schmid,2026-01-31,,insufficient evidence,36.0654,Hawk,4,span under 365 days
+schmid,Jeffrey R. Schmid,2026-02-28,,insufficient evidence,35.8669,Hawk,5,span under 365 days
+schmid,Jeffrey R. Schmid,2026-03-31,,insufficient evidence,33.7205,Hawk,5,span under 365 days
+schmid,Jeffrey R. Schmid,2026-04-30,,insufficient evidence,35.7143,Hawk,5,span under 365 days
+schmid,Jeffrey R. Schmid,2026-05-31,,insufficient evidence,,unclassified,5,span under 365 days
+schmid,Jeffrey R. Schmid,2026-06-30,,insufficient evidence,,unclassified,5,span under 365 days
+schmid,Jeffrey R. Schmid,2026-07-31,,insufficient evidence,,unclassified,5,span under 365 days
+schmid,Jeffrey R. Schmid,2026-08-31,,insufficient evidence,30.0,Hawk,6,span under 365 days
+schmid,Jeffrey R. Schmid,2026-09-30,,insufficient evidence,44.7759,Hawk,7,span under 365 days
+schmid,Jeffrey R. Schmid,2026-10-31,,insufficient evidence,44.7759,Hawk,7,span under 365 days
+schmid,Jeffrey R. Schmid,2026-11-20,,insufficient evidence,50.0,Hawk,7,span under 365 days
+logan,Lorie K. Logan,2025-06-30,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+logan,Lorie K. Logan,2025-07-31,,insufficient evidence,50.0,Hawk,1,fewer than 4 agreed events
+logan,Lorie K. Logan,2025-08-31,,insufficient evidence,50.0,Hawk,1,fewer than 4 agreed events
+logan,Lorie K. Logan,2025-09-30,,insufficient evidence,50.0,Hawk,2,fewer than 4 agreed events
+logan,Lorie K. Logan,2025-10-31,,insufficient evidence,50.0,Hawk,2,fewer than 4 agreed events
+logan,Lorie K. Logan,2025-11-30,,insufficient evidence,50.0,Hawk,2,fewer than 4 agreed events
+logan,Lorie K. Logan,2025-12-31,,insufficient evidence,,unclassified,2,fewer than 4 agreed events
+logan,Lorie K. Logan,2026-01-31,,insufficient evidence,,unclassified,2,fewer than 4 agreed events
+logan,Lorie K. Logan,2026-02-28,,insufficient evidence,50.0,Hawk,3,fewer than 4 agreed events
+logan,Lorie K. Logan,2026-03-31,,insufficient evidence,50.0,Hawk,3,fewer than 4 agreed events
+logan,Lorie K. Logan,2026-04-30,,insufficient evidence,50.0,Hawk,4,span under 365 days
+logan,Lorie K. Logan,2026-05-31,,insufficient evidence,50.0,Hawk,4,span under 365 days
+logan,Lorie K. Logan,2026-06-30,,insufficient evidence,50.0,Hawk,4,span under 365 days
+logan,Lorie K. Logan,2026-07-31,48.1481,Hawk,45.2726,Hawk,6,ok
+logan,Lorie K. Logan,2026-08-31,48.1481,Hawk,45.2726,Hawk,6,ok
+logan,Lorie K. Logan,2026-09-30,48.1481,Hawk,45.2726,Hawk,6,ok
+logan,Lorie K. Logan,2026-10-31,50.5754,Hawk,66.8557,Hawk,8,ok
+logan,Lorie K. Logan,2026-11-20,53.2381,Hawk,64.6538,Hawk,10,ok
+daly,Mary C. Daly,2025-06-30,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+daly,Mary C. Daly,2025-07-31,,insufficient evidence,,unclassified,0,fewer than 4 agreed events
+daly,Mary C. Daly,2025-08-31,,insufficient evidence,-16.6667,Centrist,1,fewer than 4 agreed events
+daly,Mary C. Daly,2025-09-30,,insufficient evidence,33.7489,Hawk,2,fewer than 4 agreed events
+daly,Mary C. Daly,2025-10-31,,insufficient evidence,33.7489,Hawk,2,fewer than 4 agreed events
+daly,Mary C. Daly,2025-11-30,,insufficient evidence,50.0,Hawk,2,fewer than 4 agreed events
+daly,Mary C. Daly,2025-12-31,,insufficient evidence,,unclassified,2,fewer than 4 agreed events
+daly,Mary C. Daly,2026-01-31,,insufficient evidence,,unclassified,2,fewer than 4 agreed events
+daly,Mary C. Daly,2026-02-28,,insufficient evidence,,unclassified,2,fewer than 4 agreed events
+daly,Mary C. Daly,2026-03-31,,insufficient evidence,,unclassified,2,fewer than 4 agreed events
+daly,Mary C. Daly,2026-04-30,,insufficient evidence,,unclassified,2,fewer than 4 agreed events
+daly,Mary C. Daly,2026-05-31,,insufficient evidence,,unclassified,2,fewer than 4 agreed events
+daly,Mary C. Daly,2026-06-30,,insufficient evidence,,unclassified,2,fewer than 4 agreed events
+daly,Mary C. Daly,2026-07-31,,insufficient evidence,,unclassified,2,fewer than 4 agreed events
+daly,Mary C. Daly,2026-08-31,,insufficient evidence,,unclassified,2,fewer than 4 agreed events
+daly,Mary C. Daly,2026-09-30,,insufficient evidence,,unclassified,2,fewer than 4 agreed events
+daly,Mary C. Daly,2026-10-31,,insufficient evidence,,unclassified,2,fewer than 4 agreed events
+daly,Mary C. Daly,2026-11-20,,insufficient evidence,,unclassified,2,fewer than 4 agreed events
