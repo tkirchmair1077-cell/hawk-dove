@@ -3,9 +3,12 @@
   "as_of_timezone": "Europe/Zurich",
   "window_start": "2025-05-20",
   "window_end": "2026-11-20",
-  "current_stance_window_start": "2026-08-22",
-  "model_version": "hawk-dove-score-v0.2-phase3.1",
-  "ledger_version": "hawk-dove-ledger-v3.1",
+  "model_version": "hawk-dove-score-v3.2e",
+  "ledger_version": "hawk-dove-ledger-v3.2e",
+  "main_public_rating": "Variant B: current stance from own event scores, 90-day window, 30-day half-life, camp cuts at ±20 (score on −100..+100). The «vs. Markt» column is a direction only (more hawkish than priced / less hawkish than priced / in line with pricing / n/a). Figures taken from market pricing, proxy series names and the internal market-relative score are not published.",
+  "vs_markt_rule": "Direction is taken from the sign of the unpublished market-relative current score, using the same ±20 cut as the camps. 'in line with pricing' means that score is between −20 and +20. 'n/a' means the 90-day stance could not be mapped to a market path or the member is not classified. The mapping itself is not validated and was judged not to hold; the column is diagnostic.",
+  "official_quote_basis_points": "Official-transcript quotes may contain phrases such as '25 basis points' when that is the speaker's own wording. Those hits are not treated as leaks. Figures taken from market pricing, and proxy series names, are forbidden.",
+  "lean_history": "Monthly 90-day / 30-day-half-life current stance on own scores (Variant B), as-of each month-end from 2025-05-31 through 2026-10-31, plus the as-of date 2026-11-20. Each point records score, camp, n events in that 90-day window, and a provisional flag (n < 4 or no event). The 2026-11-20 point reproduces the published current score. No market-relative values are stored.",
   "weights": {
     "preferred_rate_path": 0.4,
     "timing_urgency": 0.2,
@@ -13,38 +16,21 @@
     "restrictiveness": 0.1,
     "reaction_function": 0.1
   },
+  "interview_weights": {
+    "official": 1.0,
+    "two_source_verbatim": 0.25,
+    "paraphrase": 0.1,
+    "unbestaetigt": 0
+  },
   "weights_status": "nicht validiert / not validated",
   "camp_thresholds": {
-    "Dove": "score < -20",
-    "Centrist": "-20..+20",
-    "Hawk": "score > +20"
+    "own_score_main": "Hawk > +20, Centrist −20..+20, Dove < −20 (score points; Variant B; not validated)"
   },
   "thresholds_status": "nicht validiert / not validated",
-  "half_life_days": 30,
-  "score_formula": "100 * sum(w_i * d_i for observed i) / sum(w_i for observed i) / 2, with d_i in {-2,-1,+1,+2}",
-  "current_stance_formula": "decay-weighted average of agreed event scores in the 90-day window; weight = 0.5 ** (days / 30)",
-  "structural_lean_formula": "equal-weighted average of agreed event scores in 2025-05-20..as-of; published only if at least 4 agreed events and at least 365 days between first and last",
-  "disagreement_rule": "Pass A and Pass B must match on the sign of the event score and on every observed dimension, and coverage must differ by less than 20 percentage points. Otherwise do not average. A reasoned third pass may resolve a disagreement if 2 of 3 readings agree; if it stays close, mark unresolved and exclude.",
-  "pass_agreement_rate": 0.9748,
-  "n_scored_events": 119,
-  "n_agreed": 116,
-  "n_unresolved": 2,
-  "roster_as_of": "FOMC membership page last update 18 November 2026; Board members page last update 28 May 2026; district pages last updates between 5 February and 14 October 2026; all retrieved 20 November 2026.",
-  "vacancies": "No vacancy on the seven-member Board. Atlanta presidency is filled on an interim basis by Cheryl Venable. No other interim or acting presidents on the 12 official district pages.",
-  "vorbehalte": [
-    "Weights (40/20/20/10/10), camp thresholds (±20), alert thresholds (15 / 25 points) and the 30-day half-life are proposed model parameters and are not validated (nicht validiert / not validated).",
-    "Structural lean is the equal-weighted average of agreed event scores in the 12–18 month window 20 May 2025 to 20 November 2026. It is published only when there are at least 4 agreed scored policy events and at least 365 days between the first and last of those events. Shorter official tenure (Warsh as Chair from 22 May 2026; Venable as Interim Atlanta President, first official message 12 May 2026) is labelled insufficient evidence even if a current stance can be computed.",
-    "Current stance is the 90-day decay-weighted average of agreed event scores (half-life 30 days). A current-stance camp is printed only when a published stance exists and at least one agreed event in that 90-day window has an observed preferred-rate-path dimension (same rule as Phase 2). That camp is not a structural classification.",
-    "The public camp field is the structural classification (Hawk / Centrist / Dove / insufficient evidence). Current stance and its camp are shown alongside it.",
-    "Phase-2 events keep their original independent Pass A and Pass B. A reasoned third pass was run on the seven Phase-2 disagreements. Five were resolved by 2-of-3 agreement and are included with recomputed scores. Two (Schmid 15.11.2026 and Barkin 9.11.2026) remain nicht aufgelöst / unresolved and are excluded from calculations.",
-    "Phase 3.1 is a delta rerun that two-pass scored remaining policy-relevant official texts already stored under phase3/raw/ for 20 May 2025–20 November 2026. No new crawl was run. Two FOMC statements (17 June and 16 September 2026) were re-fetched with curl only to confirm the official 12-0 votes; no missed dissents were found. Pass A and Pass B were coded from the same official verbatim quotes with a conservative rubric (conditional scenarios are not a baseline path; missing dimensions stay not_observed, never 0). They agree where that official language is explicit. Identical or near-verbatim repeat speeches and official dissent explainers already scored in v3 were treated as syndication and excluded from the calculations. Official texts with no observed dimension, and non-policy official texts, are listed internally and are not in the public events table.",
-    "Every scored quote used in site_data_v3_1 is verbatim from an official Board or Reserve Bank page, official PDF, or FOMC statement stored in this package. Licensed-press wording is not in site_data_v3_1. Interviews without an official transcript remain unconfirmed and are not scored. A primary-source date correction was applied to one Kansas City speech: the stored filename used 12 November 2026, but the official datePublished is 18 September 2026.",
-    "Speeches without monetary-policy path or stance content stay out of the public events table. Missing dimensions are coded 'not observed', never 0. Allowed dimension codes are {-2,-1,+1,+2} or not_observed.",
-    "Event scores use observed dimensions only, with weights renormalised and then scaled by 1/2 to the -100..+100 range. A single observed dimension therefore renormalises to ±50 or ±100. Coverage and confidence are published with the score.",
-    "2026 voter status is taken from the official FOMC membership page (federalreserve.gov/monetarypolicy/fomc.htm, last update 18 November 2026). The seven Board seats are filled (no vacancy). Cheryl Venable is Interim President of the Atlanta Fed. Sushmita Shukla is listed as a 2026 alternate (New York First Vice President) but is not a president and is not scored. Primary-source dates are used throughout.",
-    "Relative shift is a diagnostic (own latest-vs-baseline change minus the median change of peers), not a causal estimate.",
-    "Panel A bubble size is the number of official, policy-relevant, verbatim-text evidence items that were two-pass scored and agreed in this package, not a market-influence weight.",
-    "No FRED or other API key, and no licensed dataset, is in this package. Firecrawl was not used in Phase 3 (all fetches were curl to official sites). Phase-1/2 Firecrawl use for a few official St. Louis Fed pages remains documented there.",
-    "A successful run of the scoring script proves that the arithmetic identities were executed, not that the dimension codes are financially or institutionally 'correct'. Dimension codes are analyst-style judgments from stored official text. The later validation workstream in the Phase-1 build plan has not been run."
-  ]
+  "half_life_days_current": 30,
+  "score_formula": "100 * sum(w_i * d_i for observed i) / sum(w_i for all five dimensions) / 2, with d_i in {-2,-1,0,+1,+2}. Unobserved dimensions are not coded 0; their weights remain in the denominator (shrinkage toward 0).",
+  "path_zero": "preferred_rate_path 0 is an observed hold / maintain / patient / no-change preference, not a missing value.",
+  "minus2_available": true,
+  "trend": "current own-score stance minus structural own-score lean; material at ±15 points.",
+  "reaction_function": "Symmetric rubric: + inflation-first / will not look through; − look-through of transitory inflation or employment-binding reaction."
 }
