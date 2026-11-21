@@ -2424,17 +2424,17 @@
     "voter_current": "no",
     "alternate_current": "yes",
     "interim": "no",
-    "confidence": "provisional",
-    "evidence_count": 2,
-    "fallback_method": "fewer than 4 in-window scored official events (2)",
-    "bar_note": "fewer than 4 in-window scored official events (2)",
-    "camp": "nicht eingeordnet",
-    "score": null,
+    "confidence": "full",
+    "evidence_count": 4,
+    "fallback_method": "in-window official record meets the 4-event / 365-day bar",
+    "bar_note": "in-window official record meets the 4-event / 365-day bar",
+    "camp": "Hawk",
+    "score": 35.0,
     "camp_basis": "own scores, 90-day window, 30-day half-life, ±20 (Variant B; main view)",
-    "vs_markt": "n/a",
-    "trend_flag": "not estimated",
+    "vs_markt": "less hawkish than priced",
+    "trend_flag": "becoming more hawkish",
     "current_stance_label": "90-day / 30-day half-life, own scores",
-    "public_camp_note": "Not classified: no scored event in the 90-day window. 14.10 and 6.11 interviews are unbestätigt (single source) and are not counted.",
+    "public_camp_note": "Newly classified in v3.2f from the official 12.11 SIEPR transcript (and the confirmed 6.11 CNBC interview at reduced weight). The 14.10 Reuters exclusive remains unbestätigt and is not counted.",
     "weights_and_thresholds": "nicht validiert / not validated",
     "official_quotes": [
       {
@@ -2449,6 +2449,20 @@
         "title": "Steady Through Change: In Policy, Business, and Life",
         "core_quote": "At our most recent FOMC meeting, we lowered the policy rate by 25 basis points. ... So, we left the interest rate unchanged, keeping policy modestly restrictive, continuing to put downward pressure on inflation.",
         "primary_url": "https://www.frbsf.org/news-and-media/speeches/mary-c-daly/2025/09/steady-through-change-policy-business-life/",
+        "quote_status": "verbatim official"
+      },
+      {
+        "event_date": "2026-08-05",
+        "title": "Keynote remarks at the ESRI International Conference in Tokyo",
+        "core_quote": "I will just say that I was completely supportive of the decision to hold rates in July. We have another meeting coming up in September, which is now just seven weeks away. And importantly, we have a lot of information we need to collect if we’re deciding between scenario 1 and scenario 2. […] The answer there is be vigilant to watch the information as it comes in, but be very prepared to take the action if the second scenario, in particular, emerges.",
+        "primary_url": "https://www.frbsf.org/news-and-media/events/2026/08/mary-c-daly-esri-international-conference/",
+        "quote_status": "verbatim official"
+      },
+      {
+        "event_date": "2026-11-12",
+        "title": "Keynote remarks and Q&A at SIEPR’s Policy Forum, “Economic Policy in the Age of AI”",
+        "core_quote": "So for me, I was quite comfortable with the September rate increase. I think that’s appropriate. And with my bias, as I’ve been saying, my bias is that further tightening will be needed because you just see this consistent pressure on inflation that isn’t simply in the sectors that are most directly affected by tariffs or oil. They’re actually starting to bleed into the services and that services inflation is, once it gets up, it’s extremely sticky. […] that’s why I have said that my bias is we’ll have to have additional tightening, but exactly how much and exactly when, that’s a decision that we don’t need to make today because we have many more pieces and days of information coming in over many, many quarters to make the right decision.",
+        "primary_url": "https://www.frbsf.org/news-and-media/speeches/system-speeches/2026/11/system-speeches-keynote-remarks-by-mary-c-daly-at-siepr-policy-forum/",
         "quote_status": "verbatim official"
       }
     ],
@@ -2560,30 +2574,30 @@
       },
       {
         "as_of": "2026-08-31",
-        "score": null,
-        "camp": "nicht eingeordnet",
-        "n": 0,
+        "score": 10.0,
+        "camp": "Centrist",
+        "n": 1,
         "provisional": true
       },
       {
         "as_of": "2026-09-30",
-        "score": null,
-        "camp": "nicht eingeordnet",
-        "n": 0,
+        "score": 10.0,
+        "camp": "Centrist",
+        "n": 1,
         "provisional": true
       },
       {
         "as_of": "2026-10-31",
-        "score": null,
-        "camp": "nicht eingeordnet",
-        "n": 0,
+        "score": 10.0,
+        "camp": "Centrist",
+        "n": 1,
         "provisional": true
       },
       {
         "as_of": "2026-11-20",
-        "score": null,
-        "camp": "nicht eingeordnet",
-        "n": 0,
+        "score": 35.0,
+        "camp": "Hawk",
+        "n": 2,
         "provisional": true
       }
     ]
@@ -3550,17 +3564,17 @@
     "voter_current": "yes",
     "alternate_current": "no",
     "interim": "no",
-    "confidence": "provisional",
-    "evidence_count": 3,
-    "fallback_method": "fewer than 4 in-window scored official events (3)",
-    "bar_note": "fewer than 4 in-window scored official events (3)",
-    "camp": "nicht eingeordnet",
-    "score": null,
+    "confidence": "full",
+    "evidence_count": 4,
+    "fallback_method": "in-window official record meets the 4-event / 365-day bar",
+    "bar_note": "in-window official record meets the 4-event / 365-day bar",
+    "camp": "Hawk",
+    "score": 29.1,
     "camp_basis": "own scores, 90-day window, 30-day half-life, ±20 (Variant B; main view)",
-    "vs_markt": "n/a",
-    "trend_flag": "not estimated",
+    "vs_markt": "less hawkish than priced",
+    "trend_flag": "no material trend",
     "current_stance_label": "90-day / 30-day half-life, own scores",
-    "public_camp_note": "Not classified: no scored event in the 90-day current window. Recent appearances lack an official transcript.",
+    "public_camp_note": "Newly classified in v3.2f from the official 30.9 CFR transcript (and confirmed 18.11 FinRegLab press at reduced weight). The 1.10 Reuters interview remains unbestätigt and is not counted.",
     "weights_and_thresholds": "nicht validiert / not validated",
     "official_quotes": [
       {
@@ -3582,6 +3596,13 @@
         "title": "FOMC dissent: preferred raise 25bp",
         "core_quote": "Voting against the monetary policy action were Beth M. Hammack, Neel Kashkari, and Lorie K. Logan, who preferred to raise the target range for the federal funds rate by 1/4 percentage point at this meeting.",
         "primary_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+        "quote_status": "verbatim official"
+      },
+      {
+        "event_date": "2026-09-30",
+        "title": "C. Peter McColough Series on International Economics Q&A, Council on Foreign Relations",
+        "core_quote": "My basic takeaway on the inflation data is that inflation is still too high. It’s running, you know, there are many different measures of inflation, but it’s running at around a 3 percent rate. It’s been elevated now for more than five years. […] I jotted down two hikes this year. And these are jotting down in pencil. This is as of September. I had jotted down two hikes for this year, one in September and then one later on this year. […] That would suggest one more left this year. And then another one in 2027. […] the longer the economy is proving to be resilient in the face of all these shocks, the more I am questioning how tight is monetary policy.",
+        "primary_url": "https://www.cfr.org/event/c-peter-mccolough-series-on-international-economics-with-neel-kashkari",
         "quote_status": "verbatim official"
       }
     ],
@@ -3700,23 +3721,23 @@
       },
       {
         "as_of": "2026-09-30",
-        "score": 30.0,
+        "score": 38.1,
+        "camp": "Hawk",
+        "n": 2,
+        "provisional": true
+      },
+      {
+        "as_of": "2026-10-31",
+        "score": 40.0,
         "camp": "Hawk",
         "n": 1,
         "provisional": true
       },
       {
-        "as_of": "2026-10-31",
-        "score": null,
-        "camp": "nicht eingeordnet",
-        "n": 0,
-        "provisional": true
-      },
-      {
         "as_of": "2026-11-20",
-        "score": null,
-        "camp": "nicht eingeordnet",
-        "n": 0,
+        "score": 29.1,
+        "camp": "Hawk",
+        "n": 2,
         "provisional": true
       }
     ]
@@ -3731,8 +3752,8 @@
     "interim": "yes",
     "confidence": "provisional",
     "evidence_count": 1,
-    "fallback_method": "short official tenure as Interim Atlanta President",
-    "bar_note": "short official tenure as Interim Atlanta President",
+    "fallback_method": "fewer than 4 in-window scored official events (1)",
+    "bar_note": "fewer than 4 in-window scored official events (1)",
     "camp": "nicht eingeordnet",
     "score": null,
     "camp_basis": "own scores, 90-day window, 30-day half-life, ±20 (Variant B; main view)",
@@ -4152,8 +4173,8 @@
     "interim": "no",
     "confidence": "provisional",
     "evidence_count": 0,
-    "fallback_method": "no official scoreable policy record",
-    "bar_note": "no official scoreable policy record",
+    "fallback_method": "fewer than 4 in-window scored official events (0)",
+    "bar_note": "fewer than 4 in-window scored official events (0)",
     "camp": "nicht eingeordnet",
     "score": null,
     "camp_basis": "own scores, 90-day window, 30-day half-life, ±20 (Variant B; main view)",
