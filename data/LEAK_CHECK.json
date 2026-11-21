@@ -1,5 +1,9 @@
 {
   "licensed_quotes_in_core_quote": [],
-  "api_key_hits": [],
-  "clean": true
+  "credential_hits": [],
+  "internal_market_input_hits": [],
+  "internal_path_hits": [],
+  "clean": true,
+  "checked": "licensed outlets in core_quote; credentials and API keys; internal market-input series and market-pricing fields (series names omitted from this public file); internal filesystem paths. Official-transcript wording such as '25 basis points' is allowed and is not treated as a market-input leak (same rule as v3.2b).",
+  "official_quote_basis_points_rule": "Allowed in official quotes when it is the speaker's own wording. Forbidden: figures taken from market pricing, proxy or series names, futures, odds, and the unpublished market-relative numeric score."
 }
