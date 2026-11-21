@@ -1,5 +1,0 @@
-person_id,event_id,alert_type,delta,text,weights_status
-waller,HD-EVT-20261110-WALLER-01,Watch,22.5,"Change of +22.5 points versus the pre-event agreed baseline (threshold 15, not validated).",nicht validiert / not validated
-musalem,HD-EVT-20261117-MUSALEM-01,Watch,27.5,"Change of +27.5 points versus the pre-event agreed baseline (threshold 15, not validated).",nicht validiert / not validated
-musalem,HD-EVT-20261117-MUSALEM-01,Material shift,27.5,"Change of +27.5 points versus the pre-event agreed baseline (threshold 25, not validated).",nicht validiert / not validated
-schmid,HD-EVT-20260918-SCHMID-01,Watch,20.0,"Change of +20.0 points versus the pre-event agreed baseline (threshold 15, not validated).",nicht validiert / not validated
